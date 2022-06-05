@@ -9,7 +9,7 @@
  
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyyeon&layout=compact&theme=bear"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyyeon&layout=compact&theme=react"/>
   
   ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white">
